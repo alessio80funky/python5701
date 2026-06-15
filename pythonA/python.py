@@ -1,0 +1,2 @@
+message = "Pythonはたのしい"
+print(message)
